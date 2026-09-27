@@ -1,0 +1,4 @@
+/* Optional light polish — Streamlit already provides most styling.
+   Loaded via st.markdown(f"<style>{css}</style>") if desired. */
+.stMetric { text-align: center; }
+h3 { color: #1a5276; }
